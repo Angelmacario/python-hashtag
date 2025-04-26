@@ -22,9 +22,9 @@ Este projeto é uma jornada de 100 dias de aprendizado em **Python**, onde o obj
 | Dia | Tópico / Projeto     | Status |
 |-----|----------------------|--------|
 | 1   | [Listas em Python](#)| ✅     |
-| 2   |                      | 🚧     |
-| ... | ...                  | ...    |
-
+| 2   | [Listas em Python](#)| ✅     |
+| 3   | [Desafio Sistema Bancário](#)| 🚧   |
+| 4   | ["Análise de Dados" da PrograMaria](#)| 🚧   |
 
 ## ✨ Inspiração
 
