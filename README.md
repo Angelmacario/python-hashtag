@@ -19,12 +19,21 @@ Este projeto é uma jornada de 100 dias de aprendizado em **Python**, onde o obj
 
 ## 🗓️ Progresso
 
-| Dia | Tópico / Projeto     | Status |
-|-----|----------------------|--------|
-| 1   | [Listas em Python](#)| ✅     |
-| 2   | [Listas em Python](#)| ✅     |
-| 3   | [Desafio Sistema Bancário](#)| 🚧   |
-| 4   | ["Análise de Dados" da PrograMaria](#)| 🚧   |
+| Dia | Tópico / Projeto     | Status | Dia |
+|-----|----------------------|--------|-----|
+| 1   | [Listas em Python](#)| ✅     |23/04|
+| 2   | [Listas em Python](#)| ✅     |24/04|
+| 3   | [Desafio Sistema Bancário](#)| 24/04 🚧 |
+| 4   | ["Análise de Dados" da PrograMaria - Módulo 2](#)| 25/04|
+| 5   | ["Análise de Dados" da PrograMaria - Módulo 2](#)| 26/04|
+| 6   | ["Análise de Dados" da PrograMaria - Módulo 2](#)| 27/04|
+| 7   | ["Análise de Dados" da PrograMaria - Módulo 2](#)| 28/04|
+| 8   | ["Análise de Dados" da PrograMaria - Módulo 2](#)| 29/04|
+| 9   | ["Análise de Dados" da PrograMaria - Módulo 2](#)| 30/04|
+| 10  | ["Análise de Dados" da PrograMaria - Módulo 2](#)| 01/05|
+| 11  | ["Análise de Dados" da PrograMaria - Módulo 2](#)| 02/05|
+| 12  | ["Análise de Dados" da PrograMaria - Módulo 2](#)| 03/05|
+| 13  | ["Análise de Dados" da PrograMaria - Módulo 3](#)| 04/05|
 
 ## ✨ Inspiração
 
