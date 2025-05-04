@@ -23,7 +23,7 @@ Este projeto é uma jornada de 100 dias de aprendizado em **Python**, onde o obj
 |-----|----------------------|--------|-----|
 | 1   | [Listas em Python](#)| ✅     |23/04|
 | 2   | [Listas em Python](#)| ✅     |24/04|
-| 3   | [Desafio Sistema Bancário](#)| 24/04 🚧 |
+| 3   | [Desafio Sistema Bancário](#)| 🚧     |24/04  |
 | 4   | ["Análise de Dados" da PrograMaria - Módulo 2](#)| ✅     |25/04|
 | 5   | ["Análise de Dados" da PrograMaria - Módulo 2](#)| ✅     |26/04|
 | 6   | ["Análise de Dados" da PrograMaria - Módulo 2](#)| ✅     |27/04|
